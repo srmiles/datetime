@@ -1,0 +1,19 @@
+{
+  "name": "@srmiles/datetime",
+  "version": "1.0.0",
+  "description": "DateTime extend to add Timezone & Formatting Support",
+  "main": "DateTime.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/srmiles/datetime.git"
+  },
+  "author": "Steven Miles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srmiles/datetime/issues"
+  },
+  "homepage": "https://github.com/srmiles/datetime#readme"
+}
